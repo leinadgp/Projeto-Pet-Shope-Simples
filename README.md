@@ -6,7 +6,7 @@ Este é um projeto educacional desenvolvido com o objetivo de praticar conceitos
 
 Abaixo está uma imagem exemplificando o layout da página em telas de desktop e mobile:
 
-![Exemplo de Tela](petShop.jpg)
+![Exemplo de Tela](petShop.png)
 
 # Descrição do Projeto
 
